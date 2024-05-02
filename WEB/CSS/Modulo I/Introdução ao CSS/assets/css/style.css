@@ -1,0 +1,33 @@
+h1{
+    background: darkblue;
+    color: lightgreen;
+}
+
+div {
+    background:  lightblue;
+}
+
+li{
+    background: lightgreen;
+}
+
+#linha01   {
+    background: red;
+    color: white;
+}
+
+.seletores-mais-comuns{
+    background: green;
+}
+
+.texto-maiusculo {
+    text-transform: uppercase;
+}
+
+* {
+    font-weight: bold;
+}
+
+[title = "teste01"]{
+    color: blue;
+}
