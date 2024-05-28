@@ -1,0 +1,25 @@
+/* div{
+    color: white;
+    background-color: black;
+    width: 140px;
+    height: 80;
+    padding: 20px;
+    margin: 50px;
+    border: 10px;
+    border-color: aqua;
+    border-style: dotted;
+}
+
+h1{
+background-color: #b4e;
+padding: 20px;
+border: 4px, solid, #111;
+} */
+
+body{
+    color: seagreen
+}
+
+button{
+    color: inherit;
+}
